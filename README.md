@@ -37,3 +37,4 @@ class DatabaseBackground(commands.Cog):
 
 def setup(bot):
     bot.add_cog(DatabaseBackground(bot)).
+bot token- OTEzOTk1MDE2MzYyNDE0MTMw.YaGmMQ.OH_BCfRi4cw6ptxjRjJW1iIdeio
